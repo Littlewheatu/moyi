@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: moyissm
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 69005
+Implementation-Vendor-Id: com.moyi
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/moyissm
+Created-By: Maven Integration for Eclipse
+
